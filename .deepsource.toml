@@ -3,5 +3,5 @@ version = 1
 [[analyzers]]
 name = "javascript"
 
-  [analyzer.meta]
+  [analyzers.meta]
   environment = ["mocha"]
